@@ -33,6 +33,10 @@ With our project's integration of Google APIs, we provide a seamless experience 
 - Find gh-pages deployment link below
 https://sprihaanand.github.io/geolocation/
 
+## Authors
+
+- [@SprihaAnand](https://www.github.com/SprihaAnand)
+
 
 ## Feedback
 
