@@ -22,6 +22,18 @@ With our project's integration of Google APIs, we provide a seamless experience 
 ## Demo
 [Screencast from 2023-05-29 17-38-59.webm](https://github.com/SprihaAnand/geolocation/assets/97617046/dcb11bcd-5053-4566-b9a0-28905bb5a824)
 
+## API Reference
+####  Geolocation API overview
+
+The Geolocation API is a service that accepts an HTTPS request with the cell tower and WiFi access points that a mobile client can detect. It returns latitude/longitude coordinates and a radius indicating the accuracy of the result for each valid input.
+
+#### Resources
+
+| Data resources	 | Data returned     | Return format                |
+| :-------- | :------- | :------------------------- |
+| `Cell device data fields such as carrier, device, and network information.` | `Latitude/longitude coordinates and an accuracy radius` |JSON |
+| `Cell tower data, such as location area code and mobile country codes.` |
+`WiFi access points data, such as MAC address and signal strength`.
 
 ## Deployment
 
