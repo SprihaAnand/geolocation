@@ -12,7 +12,11 @@ Furthermore, our platform highlights how donations can make a significant impact
 With our project's integration of Google APIs, we provide a seamless experience for book donors to locate and contribute to NGOs, encouraging them to take part in the noble act of sharing knowledge and fostering literacy. By connecting individuals with NGOs, we hope to create a positive impact and spread the joy of reading.
 
 
-![Screenshot from 2023-05-29 17-35-03](https://github.com/SprihaAnand/geolocation/assets/97617046/3b768abe-b01d-42bf-8131-15d3db9bc2cb)
-![Screenshot from 2023-05-29 17-35-21](https://github.com/SprihaAnand/geolocation/assets/97617046/40cb4b4b-80e4-460d-9a42-c54e17dc567e)
+## Screenshots
 
-![Screenshot from 2023-05-29 17-35-31](https://github.com/SprihaAnand/geolocation/assets/97617046/3e6f0406-5932-4abd-af2c-874c0347afc2)
+![App Screenshot](https://github.com/SprihaAnand/geolocation/assets/97617046/3b768abe-b01d-42bf-8131-15d3db9bc2cb)
+![App Screenshot](https://github.com/SprihaAnand/geolocation/assets/97617046/40cb4b4b-80e4-460d-9a42-c54e17dc567e)
+
+![App Screenshot](https://github.com/SprihaAnand/geolocation/assets/97617046/3e6f0406-5932-4abd-af2c-874c0347afc2)
+
+
