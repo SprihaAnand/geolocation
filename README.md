@@ -34,6 +34,10 @@ With our project's integration of Google APIs, we provide a seamless experience 
 https://sprihaanand.github.io/geolocation/
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at sprihaanand@gmail.com
+
 
 
 
