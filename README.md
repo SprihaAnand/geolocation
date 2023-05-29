@@ -23,6 +23,16 @@ With our project's integration of Google APIs, we provide a seamless experience 
 [Screencast from 2023-05-29 17-38-59.webm](https://github.com/SprihaAnand/geolocation/assets/97617046/dcb11bcd-5053-4566-b9a0-28905bb5a824)
 
 
+## Deployment
+
+- To deploy this project run
+
+```bash
+  npm run deploy
+```
+- Find gh-pages deployment link below
+https://sprihaanand.github.io/geolocation/
+
 
 
 
