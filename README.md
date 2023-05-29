@@ -45,6 +45,32 @@ The Geolocation API is a service that accepts an HTTPS request with the cell tow
 - Find gh-pages deployment link below
 https://sprihaanand.github.io/geolocation/
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
 ## Authors
 
 - [@SprihaAnand](https://www.github.com/SprihaAnand)
